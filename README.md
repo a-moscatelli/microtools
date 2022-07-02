@@ -1,3 +1,3 @@
 # microtools
-* jreepad = mini two-pane outliner
-* winstone = mini servlet container / web server
+* jreepad = two-pane outliner
+* winstone = servlet container / web server
